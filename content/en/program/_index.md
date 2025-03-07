@@ -5,6 +5,8 @@ title: "Program"
 #     weight: 40
 ---
 
+# (To be refined soon)
+
 The ANSyA workshop is intended as a forum for researchers and practitioners to present and discuss their work on practical applications of NeSy. 
 
 For this reason, the workshop is designed to incentivize the circulation of ideas and the discussion of results. 
