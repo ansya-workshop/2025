@@ -14,18 +14,25 @@ TBD
 We invite the following types of contribution:
 
 1. __full__ or __short__ papers about NeSy approaches, emphasising practical aspects, applications, or applicability to real-world problems;
+    + page limit: __7__ pages for full papers, __2__ pages for short papers (excluding references);
 
 2. __artefact papers__ presenting _software applications_ tools and libraries with proven potential to impact the NeSy domain;
+    + page limit: __2__ pages (excluding references);
 
 3. __demo papers__ presenting in detail the _usage_ of software tools which may be relevant in the NeSy domain;
+    + page limit: __2__ pages (excluding references);
 
 4. __dataset description papers__ presenting the details of _datasets_ that can be used in the NeSy domain;
+    + page limit: __2__ pages (excluding references);
 
 5. __report papers__ presenting valuable lessons learned in engineering NeSy design and/or applying NeSy to specific fields;
+    + page limit: __7__ pages (excluding references);
 
 6. __position papers__ concerning NeSy applications in specific fields;
+    + page limit: __2__ pages (excluding references);
 
 7. __survey papers__, concerning any of the above.
+    + page limit: __7__ pages (excluding references).
 
 Preliminary or already-published work can be submitted, provided that the submission is clearly marked as such.
 
@@ -67,8 +74,8 @@ Given the broad categorization of NeSy AI systems, we welcome papers that propos
 
 ## Submission Guidelines
 
-- Up to __N pages__, references _excluded_, in [__ECAI LaTeX format__](https://ecai2024.eu/download/ecai-template.zip);
-- Submissions must be in __PDF format__;
+- Submissions should be in [__ECAI LaTeX format__](https://ecai2024.eu/download/ecai-template.zip);
+- Submissions must be exported in __PDF format__;
 - _Camera-ready_ versions shall include the LaTeX __source files__;
 - Submissions must be anonymised for __double-blind__ review.
 
@@ -95,7 +102,7 @@ Similarly, demo papers will receive a score depending on the usability and utili
 
 ## Proceedings 
 
-The workshop will publish its own proceedings onto Scopus-indexed repositories, such as CEUR-WS, or anything ECAI organizers will suggest. 
+The workshop will publish its own proceedings onto Scopus-indexed repositories, such as [CEUR-WS](https://ceur-ws.org/).
 
-Accepted papers will be included in the workshop proceedings __only if__ the authors explicitly agree to do so. 
+> Accepted papers will be included in the workshop proceedings __only if__ the authors explicitly agree to do so. 
 In this way, works which are not mature enough for publication, as well as works which have already been published elsewhere can be presented and discussed at the workshop.
