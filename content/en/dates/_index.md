@@ -5,16 +5,17 @@ title: "Important Dates"
 #     weight: 20
 ---
 
-### Workshop paper submission deadline ###
-⏰ TBD
+### Paper submission deadline ###
+⏰ __July 14__, 2025, AoE
 
 ### Author Notification ###
-⏰ TBD
+⏰ __August 11__, 2025, AoE
 
-### Camera-ready Submission ###
-⏰ TBD
+### Web-site Camera-ready Submission ###
+⏰ __August 18__, 2025, AoE
 
 ### Workshop Date ###
-⏰ TBD
+⏰ __October 25-26__ (TBD), 2025, __CET__
 
-*All deadlines are AoE
+### \[Optional\] Proceedings Camera-ready Submission ###
+⏰ __November 9__, 2025, AoE
