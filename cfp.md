@@ -1,9 +1,34 @@
----
-title: "Call for Papers"
-# menu:
-#   main:
-#     weight: 10
----
+# 1st International Workshop on Avanced Neuro-Symbolic Applications (ANSyA 2025)
+
+Organized by:
+
+- [Andrea Agiollo](mailto:A.Agiollo-1@tudelft.nl), TU Delft, The Netherlands
+- [Enkeleda Bardhi](mailto:E.Bardhi-1@tudelft.nl), TU Delft, The Netherlands
+- [Giovanni Ciatto](mailto:giovanni.ciatto@unibo.it), University of Bologna, Italy
+- [Sebastijan Dumancic](mailto:S.Dumancic@tudelft.nl), TU Delft, The Netherlands
+- [Giuseppe Marra](mailto:giuseppe.marra@kuleuven.be), KU Leuven, Belgium
+
+## Aim
+
+The ANSyA workshop aims to advance the __practical__ dimensions of neuro-symbolic AI. 
+
+It seeks to bridge the gap between theoretical advancements and industry adoption, showcasing research that addresses real-world problems and delivers actionable solutions. 
+
+ANSyA provides a platform for applied neuro-symbolic systems engineering, fostering collaborations between academia and industry, and encouraging innovative thinking. 
+
+The workshop aspires to revitalize the applied dimension of neuro-symbolic AI, making it a mainstream paradigm for solving data-driven problems across diverse domains.
+
+## Important Dates
+
+- Paper submission deadline: __July 14__, 2025, AoE
+
+- Author Notification: __August 11__, 2025, AoE
+
+- Web-site Camera-ready Submission: __August 18__, 2025, AoE
+
+- Workshop Date: __October 25-26__ (TBD), 2025, __CET__
+
+- \[Optional\] Proceedings Camera-ready Submission: __November 9__, 2025, AoE
 
 ## Submission site
 
