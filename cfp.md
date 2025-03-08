@@ -1,9 +1,38 @@
----
-title: "Call for Papers"
-# menu:
-#   main:
-#     weight: 10
----
+# 1st International Workshop on Avanced Neuro-Symbolic Applications (ANSyA 2025)
+
+Updates here: <https://ansya-workshop.github.io/2025/>
+
+## Workshop at [ECAI 2025](https://ecai2024.eu/)
+
+Organized by:
+
+- [Andrea Agiollo](mailto:A.Agiollo-1@tudelft.nl), TU Delft, The Netherlands
+- [Enkeleda Bardhi](mailto:E.Bardhi-1@tudelft.nl), TU Delft, The Netherlands
+- [Giovanni Ciatto](mailto:giovanni.ciatto@unibo.it), University of Bologna, Italy
+- [Sebastijan Dumancic](mailto:S.Dumancic@tudelft.nl), TU Delft, The Netherlands
+- [Giuseppe Marra](mailto:giuseppe.marra@kuleuven.be), KU Leuven, Belgium
+
+## Aim
+
+The ANSyA workshop aims to advance the __practical__ dimensions of neuro-symbolic AI. 
+
+It seeks to bridge the gap between theoretical advancements and industry adoption, showcasing research that addresses real-world problems and delivers actionable solutions. 
+
+ANSyA provides a platform for applied neuro-symbolic systems engineering, fostering collaborations between academia and industry, and encouraging innovative thinking. 
+
+The workshop aspires to revitalize the applied dimension of neuro-symbolic AI, making it a mainstream paradigm for solving data-driven problems across diverse domains.
+
+## Important Dates
+
+- Paper submission deadline: __July 14__, 2025, AoE
+
+- Author Notification: __August 11__, 2025, AoE
+
+- Web-site Camera-ready Submission: __August 18__, 2025, AoE
+
+- Workshop Date: __October 25-26__ (TBD), 2025, __CET__
+
+- \[Optional\] Proceedings Camera-ready Submission: __November 9__, 2025, AoE
 
 ## Submission site
 
@@ -42,11 +71,17 @@ ANSyA focuses on the practical application of NeSy into any possible field.
 
 Leveraging on the seminal work by Sarker et al., 
 we consider as NeSy any system falling into one (or more) of the following categories:
+
 - neural-based processing systems where input and output are presented in a symbolic form;
+
 - neural-based processing systems that compile symbolic rules during training;
+
 - systems such as Neuro-Symbolic Concept-Learner representing a cascading from neural systems to symbolic reasoners;
+
 - systems such as AlphaGo and AlphaZero where neural pattern recognition subroutines are used within a symbolic problem solver;
+
 - bidirectional framework in which neural and symbolic components communicate, such as DeepProblog and NeurASP;
+
 - systems that embed symbolic reasoning inside a neural engine.
 
 ### Twin communities
@@ -56,44 +91,72 @@ We also welcome contributions from twin communities leveraging different nomencl
 ### Keywords
 
 Given the broad categorization of NeSy AI systems, we welcome papers that propose applications and engineering research in various domains, including (but not limited to):
+
 - NeSy and cybersecurity
+
 - NeSy and intelligent agents
+
 - NeSy and intelligent networked systems
+
 - NeSy in healthcare
+
 - NeSy and large language models
+
 - NeSy in robotics
+
 - NeSy in computer vision
+
 - NeSy for planning
+
 - NeSy for programming (e.g., program synthesis)
+
 - Symbolic knowledge extraction or injection
+
 - Theorem proving via NeSy
+
 - Automated reasoning via NeSy
+
 - AI trustworthiness (explainable, fair, etc.) via NeSy
+
 - Symbolic regression via NeSy
+
 - Inductive logic programming via NeSy
 
 ## Submission Guidelines
 
+
 - Submissions should be in [__ECAI LaTeX format__](https://ecai2024.eu/download/ecai-template.zip);
+
 - Submissions must be exported in __PDF format__;
+
 - _Camera-ready_ versions shall include the LaTeX __source files__;
+
 - Submissions must be anonymised for __double-blind__ review.
 
 ## Reviewing Format
 
 We consider a 2-phase reviewing process:
+
 1. Each submission will undergo a traditional double-blind review process. This phase applies to all papers, regardless of type, and will determine the final acceptance or rejection decision. 
+
 2. The second phase occurs during and after the workshop: accepted contributions are presented (as posters) at the workshop, and authors may collect further comments and insights. 
 
 After that, authors who are willing to publish their contribution to the workshop proceedings will be requested to produce a final version of the paper, addressing the reviewers’ suggestions and possibly integrating comments and insights from the workshop.
 
 All papers will undergo the standard assessment in which reviewers will be asked to consider the submission focusing on its:
+
 - __scope__: is the paper on-topic w.r.t. the workshop’s track or theme?
+
 - __significance__: is the idea proposed in the paper meaningful for the NeSy community? Are the results relevant?
+
 - __soundness__: is the approach proposed in the paper correct and robust? Are experiments (if any) well-designed?
+
 - __clarity__: is the paper clear and well organized? Is the discussion complete?
+
 - __contextualization__: is relevant background and related literature being adequately referenced?
+
 - __novelty__: is the contribution novel either from a conceptual or technical perspective?
+
 - __practical__ applicability: is the proposed idea applicable in practice? Can it scale? Do the authors provide convincing evidence?
 
 Furthermore, the reviews will take into account the specific characteristics of the submitted contributions to obtain their final decision. 
