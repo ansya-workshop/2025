@@ -1,4 +1,4 @@
-# 1st International Workshop on Avanced Neuro-Symbolic Applications (ANSyA 2025)
+# 1st International Workshop on Advanced Neuro-Symbolic Applications (ANSyA 2025)
 
 Updates here: <https://ansya-workshop.github.io/2025/>
 

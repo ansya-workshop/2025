@@ -1,7 +1,7 @@
 ---
 title: |
   1st International Workshop on
-  Avanced Neuro-Symbolic Applications
+  Advanced Neuro-Symbolic Applications
 description: |
   Co-located with ECAI 2025, Bologna, Italy
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
