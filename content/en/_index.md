@@ -7,7 +7,7 @@ description: |
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/header.png'
+  featured_image: '/images/bolo_cropped.jpg'
 ---
 
 The ANSyA workshop aims to advance the __practical__ dimensions of neuro-symbolic AI. 
