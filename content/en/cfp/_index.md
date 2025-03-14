@@ -5,87 +5,64 @@ title: "Call for Papers"
 #     weight: 10
 ---
 
-## Submission site
+__Authors are invited to submit original papers in PDF format to the [submission website](https://easychair.org/my/conference?conf=ansya2025).__
 
-<https://easychair.org/my/conference?conf=ansya2025>
+## 📃 Submission Type
 
-## Submission Types
+The workshop provides a platform to share experimental and theoretical results, present artefacts, demos and datasets, as well as broad discussion or survey papers. Therefore, ANSyA invites researchers and practitioners to submit the following types of contribution:
 
-We invite the following types of contribution:
+1. __Full__ or __short__ papers about NeSy approaches, emphasising practical aspects, applications, or applicability to real-world problems. Full papers should be limited to __7 pages__, while short papers should be limited to __2 pages__ _(excluding references)_.
 
-1. __full__ or __short__ papers about NeSy approaches, emphasising practical aspects, applications, or applicability to real-world problems;
-    + page limit: __7__ pages for full papers, __2__ pages for short papers (excluding references);
+2. __Artefact papers__ presenting _software applications_ tools and libraries with proven potential to impact the NeSy domain. Artefact papers should be limited to __2 pages__ _(excluding references)_.
 
-2. __artefact papers__ presenting _software applications_ tools and libraries with proven potential to impact the NeSy domain;
-    + page limit: __2__ pages (excluding references);
+3. __Demo papers__ presenting in detail the _usage_ of software tools which may be relevant in the NeSy domain. Demo papers should be limited to __2 pages__ _(excluding references)_.
 
-3. __demo papers__ presenting in detail the _usage_ of software tools which may be relevant in the NeSy domain;
-    + page limit: __2__ pages (excluding references);
+4. __Dataset description papers__ presenting the details of _datasets_ that can be used in the NeSy domain. Dataset description papers should be limited to __2 pages__ _(excluding references)_.
 
-4. __dataset description papers__ presenting the details of _datasets_ that can be used in the NeSy domain;
-    + page limit: __2__ pages (excluding references);
+5. __Report papers__ presenting valuable lessons learned in engineering NeSy design and/or applying NeSy to specific fields. Report papers should be limited to __7 pages__ _(excluding references)_.
 
-5. __report papers__ presenting valuable lessons learned in engineering NeSy design and/or applying NeSy to specific fields;
-    + page limit: __7__ pages (excluding references);
+6. __Position papers__ concerning NeSy applications in specific fields. Position papers should be limited to __2 pages__ _(excluding references)_.
 
-6. __position papers__ concerning NeSy applications in specific fields;
-    + page limit: __2__ pages (excluding references);
+7. __Survey papers__, concerning any of the above. Survey papers should be limited to __7 pages__ _(excluding references)_.
 
-7. __survey papers__, concerning any of the above.
-    + page limit: __7__ pages (excluding references).
+❗ Preliminary or already-published work can be submitted, provided that the submission is clearly marked as such. ❗ 
 
-Preliminary or already-published work can be submitted, provided that the submission is clearly marked as such.
-
-## Relevant topics
-
-ANSyA focuses on the practical application of NeSy into any possible field. 
-
-Leveraging on the seminal work by Sarker et al., 
-we consider as NeSy any system falling into one (or more) of the following categories:
-- neural-based processing systems where input and output are presented in a symbolic form;
-- neural-based processing systems that compile symbolic rules during training;
-- systems such as Neuro-Symbolic Concept-Learner representing a cascading from neural systems to symbolic reasoners;
-- systems such as AlphaGo and AlphaZero where neural pattern recognition subroutines are used within a symbolic problem solver;
-- bidirectional framework in which neural and symbolic components communicate, such as DeepProblog and NeurASP;
-- systems that embed symbolic reasoning inside a neural engine.
-
-### Twin communities
-
-We also welcome contributions from twin communities leveraging different nomenclature for similar concepts, such as informed-machine learning, symbolic knowledge extraction or injection, etc.
-
-### Keywords
-
-Given the broad categorization of NeSy AI systems, we welcome papers that propose applications and engineering research in various domains, including (but not limited to):
-- NeSy and cybersecurity
-- NeSy and intelligent agents
-- NeSy and intelligent networked systems
-- NeSy in healthcare
-- NeSy and large language models
-- NeSy in robotics
-- NeSy in computer vision
-- NeSy for planning
-- NeSy for programming (e.g., program synthesis)
-- Symbolic knowledge extraction or injection
-- Theorem proving via NeSy
-- Automated reasoning via NeSy
-- AI trustworthiness (explainable, fair, etc.) via NeSy
-- Symbolic regression via NeSy
-- Inductive logic programming via NeSy
-
-## Submission Guidelines
+## 📋 Submission Guidelines
 
 - Submissions should be in [__ECAI LaTeX format__](https://ecai2024.eu/download/ecai-template.zip);
 - Submissions must be exported in __PDF format__;
 - _Camera-ready_ versions shall include the LaTeX __source files__;
 - Submissions must be anonymised for __double-blind__ review.
 
-## Reviewing Format
 
-We consider a 2-phase reviewing process:
+## 🔬 Topics of Interest
+
+Given the broad categorization of NeSy AI systems, we welcome papers that propose applications and engineering research in various domains, including (but not limited to):
+
+- Neuro-Symbolic integration application in cybersecurity
+- Neuro-Symbolic integration and intelligent agents
+- Neuro-Symbolic integration and intelligent networked systems
+- Neuro-Symbolic integration application in healthcare
+- Neuro-Symbolic integration and large language models
+- Neuro-Symbolic integration application in robotics
+- Neuro-Symbolic integration application in computer vision
+- Neuro-Symbolic integration for planning
+- Neuro-Symbolic integration for programming (e.g., program synthesis)
+- Symbolic knowledge extraction (SKE) or injection (SKI)
+- Theorem proving via Neuro-Symbolic integration
+- Automated reasoning via Neuro-Symbolic integration
+- AI trustworthiness (explainable, fair, etc.) via Neuro-Symbolic integration
+- Symbolic regression via Neuro-Symbolic integration
+- Inductive logic programming via Neuro-Symbolic integration
+
+__Twin communities:__ We also welcome contributions from twin communities leveraging different nomenclature for similar concepts, such as informed-machine learning, symbolic knowledge extraction or injection, etc.
+
+
+## 📝 Reviewing Format
+
+ANSyA follows a 2-phase reviewing process:
 1. Each submission will undergo a traditional double-blind review process. This phase applies to all papers, regardless of type, and will determine the final acceptance or rejection decision. 
-2. The second phase occurs during and after the workshop: accepted contributions are presented (as posters) at the workshop, and authors may collect further comments and insights. 
-
-After that, authors who are willing to publish their contribution to the workshop proceedings will be requested to produce a final version of the paper, addressing the reviewers’ suggestions and possibly integrating comments and insights from the workshop.
+2. The second phase occurs during and after the workshop: accepted contributions are presented (as posters) at the workshop, and authors may collect further comments and insights. After that, authors who are willing to publish their contribution to the workshop proceedings will be requested to produce a final version of the paper, addressing the reviewers’ suggestions and possibly integrating comments and insights from the workshop.
 
 All papers will undergo the standard assessment in which reviewers will be asked to consider the submission focusing on its:
 - __scope__: is the paper on-topic w.r.t. the workshop’s track or theme?
@@ -96,13 +73,11 @@ All papers will undergo the standard assessment in which reviewers will be asked
 - __novelty__: is the contribution novel either from a conceptual or technical perspective?
 - __practical__ applicability: is the proposed idea applicable in practice? Can it scale? Do the authors provide convincing evidence?
 
-Furthermore, the reviews will take into account the specific characteristics of the submitted contributions to obtain their final decision. 
-For example, submissions proposing novel software will receive a score depending also on the quality of the shared software. 
-Similarly, demo papers will receive a score depending on the usability and utility of the tool under demonstration.
+Furthermore, the reviews will take into account the specific characteristics of the submitted contributions to obtain their final decision. For example, submissions proposing novel software will receive a score depending also on the quality of the shared software. Similarly, demo papers will receive a score depending on the usability and utility of the tool under demonstration.
 
-## Proceedings 
+## 📖 Proceedings 
 
 The workshop will publish its own proceedings onto Scopus-indexed repositories, such as [CEUR-WS](https://ceur-ws.org/).
 
-> Accepted papers will be included in the workshop proceedings __only if__ the authors explicitly agree to do so. 
+❗ __Important note:__ Accepted papers will be included in the workshop proceedings __only if__ the authors explicitly agree to do so. 
 In this way, works which are not mature enough for publication, as well as works which have already been published elsewhere can be presented and discussed at the workshop.
