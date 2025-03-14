@@ -1,4 +1,15 @@
 .measure-wide {
-    max-width: 90% !important;
+    max-width: 80% !important;
     text-align: left;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+footer { 
+    class: footer bg-black bottom-0 w-100 pa3;
+    margin-top: auto;
 }
