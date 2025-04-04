@@ -29,7 +29,7 @@ The workshop provides a platform to share experimental and theoretical results, 
 
 ## 📋 Submission Guidelines
 
-- Submissions should be in [__ECAI LaTeX format__](https://ecai2024.eu/download/ecai-template.zip);
+- Submissions should be in [__ECAI LaTeX format__](https://ecai2025.org/wp-content/uploads/2025/04/ecai-template.zip);
 - Submissions must be exported in __PDF format__;
 - _Camera-ready_ versions shall include the LaTeX __source files__;
 - Submissions must be anonymised for __double-blind__ review.
