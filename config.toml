@@ -54,7 +54,7 @@ networks = [
 
 
 [params.ananke.social.bluesky]
-username = "ansya.ws"
+username = "ansya-ws.bsky.social"
 
 [markup.goldmark.renderer]
 unsafe= true
