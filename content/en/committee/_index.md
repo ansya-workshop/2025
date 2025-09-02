@@ -110,3 +110,8 @@ TBD.
 - Nicholas Rossetti, University of Brescia
 - Nitisha Jain, King's College London
 - Octavio Arriaga, University of Bremen
+
+### Other reviewers
+
+- Björn Gehrke, Osnabrück University
+- Fahmina Nur Salma, Bowie State University
