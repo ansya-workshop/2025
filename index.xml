@@ -12,6 +12,13 @@ Advanced Neuro-Symbolic Applications
     <language>en-GB</language>
     <atom:link href="https://ansya-workshop.github.io/2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Accepted Papers</title>
+      <link>https://ansya-workshop.github.io/2025/accepted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ansya-workshop.github.io/2025/accepted/</guid>
+      <description>&lt;!-- 1. James Lukas, Felicity Aktan, Achyut Chebiyam, Zhiyu Ni and Zheng Liang. [&#34;NL2RC: End-to-End Neuro-Symbolic Synthesis from Natural Language to Robot Controller&#34;](ANSyA_2025_paper1.pdf) --&gt;&#xA;&lt;!-- 2. James Dayson. [&#34;Eluren: A Symbolic Memory Architecture for Context-Aware Cognitive Agents&#34;](ANSyA_2025_paper2.pdf) --&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Florin Leon. &lt;a href=&#34;ANSyA_2025_paper3.pdf&#34;&gt;&amp;ldquo;A Survey of Brain-Inspired Mechanisms for Neuro-Symbolic Reasoning&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Kislay Raj and Alessandra Mileo. &lt;a href=&#34;ANSyA_2025_paper4.pdf&#34;&gt;&amp;ldquo;Neurosymbolic AI for GNN Explainability: A Survey&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Darian Onchis and Eduard Hogea. &lt;a href=&#34;ANSyA_2025_paper5.pdf&#34;&gt;&amp;ldquo;Logic Meets Attention: A Neuro-symbolic Approach to Vibration Fault Detection&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Attend</title>
       <link>https://ansya-workshop.github.io/2025/attend/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

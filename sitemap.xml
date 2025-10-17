@@ -6,6 +6,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://ansya-workshop.github.io/2025/accepted/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://ansya-workshop.github.io/2025/attend/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
