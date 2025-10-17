@@ -29,7 +29,7 @@ The __actual room__ will be announced soon.
 
 __Title__: Towards Unlocking Industrial Potential with Neuro-Symbolic AI at Bosch: Opportunities and Challenges
 
-__Speaker__: [Dr. Daria Stepanova](https://dariastepanova.github.io/), CR/AIR4, Bosch, Germany
+__Speaker__: [Dr. Daria Stepanova](https://dariastepanova.github.io/), Bosch Center for AI, Germany
 
 ### Abstract
 
