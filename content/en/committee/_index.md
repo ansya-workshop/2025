@@ -52,9 +52,9 @@ title: "Committee"
     </tr>
  </table>
 
-## Keynote
+## Keynote Speaker
 
-TBD.
+- Dr. Daria Stepanova, Bosch Center for AI
 
 ## Program Committee
 
