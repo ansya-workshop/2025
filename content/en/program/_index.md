@@ -8,7 +8,7 @@ title: "Program"
 # 🚧 (To be refined soon) -->
 
 
-The workshop consists of a single half day of activities, including one keynote speech, and poster sessions. The workshop will be held on __Sunday October 26th__ (2nd workshop day) in the afternoon __starting at 14:00__. The allocated room is __"Aula 5.5"__ at the [Engineering School of University of Bologna](https://maps.app.goo.gl/o7nfmhguuheY5s9QA) (notice that this is different from the main conference location). __Authors should note that all accepted papers will be presented as posters__.
+The workshop consists of a single half day of activities, including one keynote speech, and poster sessions. The workshop will be held on __Sunday October 26th__ (2nd workshop day) in the afternoon __starting at 14:00__. The allocated room is __"Aula 6.2"__ at the [Engineering School of University of Bologna](https://maps.app.goo.gl/o7nfmhguuheY5s9QA) (notice that this is different from the main conference location). __Authors should note that all accepted papers will be presented as posters__.
 
 ## Detailed Schedule
 
