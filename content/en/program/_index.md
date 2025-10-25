@@ -69,15 +69,15 @@ and the Vienna University of Technology.</td>
     </tr>    
     <tr>
         <td></td>
-        <td>3. "A Survey of Brain-Inspired Mechanisms for Neuro-Symbolic Reasoning"</td>
+        <td><a href="https://drive.google.com/file/d/1CMReENj6BHP1eZL490p-m1tiipKRZyCF/view?usp=drive_link">3. "A Survey of Brain-Inspired Mechanisms for Neuro-Symbolic Reasoning"</a></td>
     </tr>
     <tr>
         <td></td>
-        <td>4. "Neurosymbolic AI for GNN Explainability: A Survey"</td>
+        <td><a href="https://drive.google.com/file/d/1uraCqPS-fAOgUUGZTty0H1vPRArCadle/view?usp=drive_link">4. "Neurosymbolic AI for GNN Explainability: A Survey"</a></td>
     </tr>
     <tr>
         <td></td>
-        <td>5. "Logic Meets Attention: A Neuro-symbolic Approach to Vibration Fault Detection"</td>
+        <td><a href="https://drive.google.com/file/d/1YILp4zYoXIG0_2pEUDT7s270TktFTB_Q/view?usp=drive_link">5. "Logic Meets Attention: A Neuro-symbolic Approach to Vibration Fault Detection"</a></td>
     </tr>
     <tr>
         <td></td>
@@ -93,19 +93,19 @@ and the Vienna University of Technology.</td>
     </tr>
     <tr>
         <td></td>
-        <td>9. "Explaining CNN Classifications Using Small Patches"</td>
+        <td><a href="https://drive.google.com/file/d/1h3-iNyzIQdjjI8frk0FzoSY6gY6Ja2Mu/view?usp=drive_link">9. "Explaining CNN Classifications Using Small Patches"</a></td>
     </tr>
     <tr>
         <td></td>
-        <td>10. "VectorGraphRAG: Automatic Knowledge Graph Construction and Memory Efficient Triplet Ranking for Medical Question Answering"</td>
+        <td><a href="https://drive.google.com/file/d/1lPwPolcGX-how_z_oN5oojGK9T96xycM/view?usp=drive_link">10. "VectorGraphRAG: Automatic Knowledge Graph Construction and Memory Efficient Triplet Ranking for Medical Question Answering"</a></td>
     </tr>
     <tr>
         <td></td>
-        <td>11. "Exploring Neuro-Symbolic AI for Facial Emotion Recognition"</td>
+        <td><a href="https://drive.google.com/file/d/1vc89pvUYwZby3tZAoB0YiGK9ACEw7feg/view?usp=drive_link">11. "Exploring Neuro-Symbolic AI for Facial Emotion Recognition"</a></td>
     </tr>
     <tr>
         <td></td>
-        <td>12. "Towards Interpretable Concept Learning over Time Series via Temporal Logic Semantics"</td>
+        <td><a href="https://drive.google.com/file/d/1nFQJJlje_zyRBy0v1fZa4hIJRBq3Q2GQ/view?usp=drive_link">12. "Towards Interpretable Concept Learning over Time Series via Temporal Logic Semantics"</a></td>
     </tr>
     <tr>
         <td></td>
@@ -117,7 +117,7 @@ and the Vienna University of Technology.</td>
     </tr>
     <tr>
         <td></td>
-        <td>17. "Graph Against the Machine: a Neuro-Symbolic Approach for Enhanced Video Question Answering"</td>
+        <td><a href="https://drive.google.com/file/d/1CbCNEnTxet_5Ide7Wotg4sdDgmBnSVq5/view?usp=drive_link">17. "Graph Against the Machine: a Neuro-Symbolic Approach for Enhanced Video Question Answering"</a></td>
     </tr>
     <tr></tr>
     <tr></tr>
@@ -128,7 +128,7 @@ and the Vienna University of Technology.</td>
     </tr>
     <tr>
         <td></td>
-        <td>18. "Neuro-Symbolic Learning from Temporal Sequences in Safety-Critical Systems"</td>
+        <td><a href="https://drive.google.com/file/d/1kwF6kpz651ApWutkAA9hXD7eDGtB5G-F/view?usp=drive_link">18. "Neuro-Symbolic Learning from Temporal Sequences in Safety-Critical Systems"</a></td>
     </tr>
     <tr>
         <td></td>
@@ -156,23 +156,23 @@ and the Vienna University of Technology.</td>
     </tr>
     <tr>
         <td></td>
-        <td>26. "Discovering Association Rules in High-Dimensional Small Tabular Data"</td>
+        <td><a href="https://drive.google.com/file/d/1qVxEXoVwPKAxg4ntATByxoTau8Z6naT4/view?usp=drive_link">26. "Discovering Association Rules in High-Dimensional Small Tabular Data"</a></td>
     </tr>
     <tr>
         <td></td>
-        <td>28. "Single Domain Generalization in Diabetic Retinopathy: A Neuro-Symbolic Learning Approach"</td>
+        <td><a href="https://drive.google.com/file/d/1YTW4RO0iEYoyEicoIBtAgCriNL2dsAnB/view?usp=drive_link">28. "Single Domain Generalization in Diabetic Retinopathy: A Neuro-Symbolic Learning Approach"</a></td>
     </tr>
     <tr>
         <td></td>
-        <td>29. "HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs"</td>
+        <td>29. "HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs"/td>
     </tr>
     <tr>
         <td></td>
-        <td>30. "Constraint-Guided PINNs: A Constrained Optimization Approach"</td>
+        <td><a href="https://drive.google.com/file/d/1tvMcTz1a3gPyM7wkskc-dAC_zugi44Y4/view?usp=drive_link">30. "Constraint-Guided PINNs: A Constrained Optimization Approach"</a></td>
     </tr>
     <tr>
         <td></td>
-        <td>31. "Analyzing Probabilistic Logic Shields for Multi-Agent Reinforcement Learning"</td>
+        <td><a href="https://drive.google.com/file/d/1RmtI14j7RLPvz_C8e-euh529e02OdUyY/view?usp=drive_link">31. "Analyzing Probabilistic Logic Shields for Multi-Agent Reinforcement Learning"</a></td>
     </tr>
     <tr></tr>
     <tr></tr>
